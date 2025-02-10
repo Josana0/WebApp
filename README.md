@@ -1,3 +1,2 @@
 # WebApp
-Web Application
-This is the change added 
+To add the details of the website.
